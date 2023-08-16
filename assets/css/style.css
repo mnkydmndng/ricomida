@@ -1,0 +1,45 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Lobster', cursive;
+    color: #373A3C;
+}
+
+h1 {
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+}
+
+h4 {
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+}
+
+p {
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+}
+
+.header-txt {
+    font-size: 3em;
+}
+
+.ricomida {
+    font-family: 'Lobster', cursive;
+
+}
+
+.clr-change {
+    cursor: pointer;
+}
+
+.buttom-circle {
+    border-radius: 50%;
+}
+
+.bg-subscription {
+    background-color: #DC3545;
+}
+
+.bg-footer {
+    background-color: #373A3C;
+}
